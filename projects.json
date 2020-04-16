@@ -1,0 +1,20 @@
+{
+
+  "projects": [
+    {
+      "name": "Compact Carbon Capture",
+      "id": 1,
+      "description": "Wordpress project for real company"
+    },
+    {
+      "name": "Game of Thrones Board Game",
+      "id": 2,
+      "description": "Board Game Made With JS"
+    },
+    {
+      "name": "React Task",
+      "id": 3,
+      "description": "Proper react Project"
+    }
+  ]
+}
