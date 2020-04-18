@@ -6,7 +6,7 @@
 "hrs": 30,
 "mainTool": "Javascript",
 "taskDescription": "To make a Game of Thrones inspired board game with Javascript and a CSS pre compiler of choice. The game should emulate 'Snakes And Ladders', have at least two players and have five traps on the board to encourage interactivity.",
- "firstImage": "#",
+ "firstImage": "https://res.cloudinary.com/dyic445sm/image/upload/v1587214356/gtbg_xs7cmo.jpg",
  "secondDescription": "The main intention of the task was to check our Javascript skills, see if we could call for an API, with local storage, work with the new html5 canvas element and make basic Javascript rules. ",
  "secondImage": "#",
   "resultDescription": "This was my first big javascript project. I’m happy with the result and the functionality of the game. There are some big hurdles to step over when starting to code with javascript and i feel like i stepped over a big one with this one. Some of the design work could be better but all in all it was a good result.",
