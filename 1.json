@@ -5,12 +5,9 @@
 "websiteLink": "https://compactcarbon.no",
 "hrs": 10,
 "mainTool": "Wordpress",
-"taskDescription": "The task we got was to implement an existing website for Compact Carbon Capture AS into a WordPress Environment. Compact Carbon Capture is a company that makes a machine that effectively catches Co2 from the atmosphere.
-Previously i made a static website for them using only HTML and CSS but now they wanted a more dynamic website to post news on, so me and another student in class got the task to transfer the website over to WordPress. ",
+"taskDescription": "The task we got was to implement an existing website for Compact Carbon Capture AS into a WordPress Environment. Compact Carbon Capture is a company that makes a machine that effectively catches Co2 from the atmosphere. Previously i made a static website for them using only HTML and CSS but now they wanted a more dynamic website to post news on, so me and another student in class got the task to transfer the website over to WordPress. ",
  "firstImage": "#",
- "secondDescription": "The website is designed in a way that promotes Compact Carbon Capture’s product to the user. It is a simple design where only the necessary elements are implemented.
-I used blue and orange for main colors, the colors are light and welcoming but still maintains a certain degree of professionalism
-Clear separation in content leads to quick understanding for the user and information is easily digested. ",
+ "secondDescription": "The website is designed in a way that promotes Compact Carbon Capture’s product to the user. It is a simple design where only the necessary elements are implemented.I used blue and orange for main colors, the colors are light and welcoming but still maintains a certain degree of professionalism Clear separation in content leads to quick understanding for the user and information is easily digested. ",
  "secondImage": "#",
   "resultDescription": "This was my first payed project doing wordpress development. It was nice to see that my work is valuable to others and it opened my eyes for the posibilities of WordPress and the value it provides. ",
   "learned1": "Wordpress",

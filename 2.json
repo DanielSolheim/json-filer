@@ -5,8 +5,7 @@
 "websiteLink": "http://dansol.no/semester2/index.html",
 "hrs": 30,
 "mainTool": "Javascript",
-"taskDescription": "To make a Game of Thrones inspired board game with Javascript and a CSS pre compiler of choice. The game should emulate 'Snakes And Ladders', have at least two players and have five traps on the board to encourage
- interactivity.",
+"taskDescription": "To make a Game of Thrones inspired board game with Javascript and a CSS pre compiler of choice. The game should emulate 'Snakes And Ladders', have at least two players and have five traps on the board to encourage interactivity.",
  "firstImage": "#",
  "secondDescription": "The main intention of the task was to check our Javascript skills, see if we could call for an API, with local storage, work with the new html5 canvas element and make basic Javascript rules. ",
  "secondImage": "#",
