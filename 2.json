@@ -3,7 +3,7 @@
 "id": 2,
 "githubLink": "https://github.com/DanielSolheim/semster2019",
 "websiteLink": "http://dansol.no/semester2/index.html",
-"hrs": 30,
+"hrs": "Workhours: 30",
 "mainTool": "Javascript",
 "taskDescription": "To make a Game of Thrones inspired board game with Javascript and a CSS pre compiler of choice. The game should emulate 'Snakes And Ladders', have at least two players and have five traps on the board to encourage interactivity.",
  "firstImage": "https://res.cloudinary.com/dyic445sm/image/upload/v1587214356/gtbg_xs7cmo.jpg",

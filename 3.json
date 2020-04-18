@@ -3,7 +3,7 @@
 "id": 3,
 "githubLink": null,
 "websiteLink": "https://compactcarbon.no",
-"hrs": 10,
+"hrs": "Workhours: 20",
 "mainTool": "Wordpress",
 "taskDescription": "To make a Game of Thrones inspired board game with Javascript and a CSS pre compiler of choice. The game should emulate 'Snakes And Ladders', have at least two players and have five traps on the board to encourage interactivity.",
  "firstImage": "https://res.cloudinary.com/dyic445sm/image/upload/v1587214357/rt_au59it.png",

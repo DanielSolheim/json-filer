@@ -3,7 +3,7 @@
 "id": 1,
 "githubLink": null,
 "websiteLink": "https://compactcarbon.no",
-"hrs": 10,
+"hrs": "Workhours: 20",
 "mainTool": "Wordpress",
 "taskDescription": "The task we got was to implement an existing website for Compact Carbon Capture AS into a WordPress Environment. Compact Carbon Capture is a company that makes a machine that effectively catches Co2 from the atmosphere. Previously i made a static website for them using only HTML and CSS but now they wanted a more dynamic website to post news on, so me and another student in class got the task to transfer the website over to WordPress. ",
  "firstImage": "https://res.cloudinary.com/dyic445sm/image/upload/v1587214356/ccc_s4edrk.jpg",
