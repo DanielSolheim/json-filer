@@ -4,19 +4,19 @@
     {
       "name": "Compact Carbon Capture",
       "id": 1,
-      "description": "Wordpress project for real company",
+      "description": "Wordpress project made for Compact Carbon Capture AS. They wanted a website to display their technology, a machine that can capture CO2. They also wanted a dynamic website so they could post news and updates ",
       "imageSrc": "https://res.cloudinary.com/dyic445sm/image/upload/v1587231948/Portfolio/ccc_kicjr0.jpg"
     },
     {
       "name": "Game of Thrones Board Game",
       "id": 2,
-      "description": "Board Game Made With JS",
+      "description": "This is a Game of Thrones themed board Game. Its mainly created with Javascript and the html5 canvas element.",
       "imageSrc": "https://res.cloudinary.com/dyic445sm/image/upload/v1587231948/Portfolio/gtbg_ptzpgh.jpg"
     },
     {
       "name": "React Task",
       "id": 3,
-      "description": "Proper react Project",
+      "description": "This is the first proper React project i made. We used data from an api to display large amounts of data. Form validation, propType check and Component structure were also a big part of the assignment",
       "imageSrc": "https://res.cloudinary.com/dyic445sm/image/upload/v1587231948/Portfolio/rt_v0zfm9.jpg"
     }
   ]
