@@ -1,7 +1,7 @@
 {
 "name": "Game of Thrones Board Game",
 "id": 2,
-"githubLink": null,
+"githubLink": "https://github.com/DanielSolheim/semster2019",
 "websiteLink": "http://dansol.no/semester2/index.html",
 "hrs": 30,
 "mainTool": "Javascript",
