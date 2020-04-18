@@ -2,5 +2,5 @@
 "name": "Game of Thrones Board Game",
 "id": 2,
 "description": "Board Game Made With JS",
-"imageSrc": "/portfolio/public/images/gtbg.jpg"
+"imageSrc": "./images/gtbg.jpg"
 }
