@@ -1,16 +1,16 @@
 {
-"name": "Compact Carbon Capture",
+"name": "React Game site",
 "id": 3,
-"githubLink": null,
-"websiteLink": "https://compactcarbon.no",
+"githubLink": "https://github.com/DanielSolheim/daniel-solheim-js-frameworks-ca.js",
+"websiteLink": "https://silly-fermat-9dcafe.netlify.app/",
 "hrs": "Workhours: 20",
-"mainTool": "Wordpress",
-"taskDescription": "To make a Game of Thrones inspired board game with Javascript and a CSS pre compiler of choice. The game should emulate 'Snakes And Ladders', have at least two players and have five traps on the board to encourage interactivity.",
+"mainTool": "React",
+"taskDescription": "Make a react page, fetch data about games from an api and display the data in a proper way. Make specific pages for each game where it is described more in detail",
  "firstImage": "https://res.cloudinary.com/dyic445sm/image/upload/v1587214357/rt_au59it.png",
- "secondDescription": "The main intention of the task was to check our Javascript skills, see if we could call for an API, with local storage, work with the new html5 canvas element and make basic Javascript rules. ",
+ "secondDescription": "We were also validating a submission form, and using react hooks and state management",
  "secondImage": "https://res.cloudinary.com/dyic445sm/image/upload/v1587249541/Portfolio/gba0BSL_zpobom.jpg",
-  "resultDescription": "This was my first big javascript project. I’m happy with the result and the functionality of the game. There are some big hurdles to step over when starting to code with javascript and i feel like i stepped over a big one with this one. Some of the design work could be better but all in all it was a good result.",
-  "learned1": "Wordpress",
-  "learned2": "more",
-  "learned3" : "even more"
+  "resultDescription": "The result is a page where you can look up and search for different game. You can find specific info on each game and if you want more info you can go to the games web page.",
+  "learned1": "React Hooks",
+  "learned2": "Api's and fetching data",
+  "learned3" : "Form Validation"
 }
